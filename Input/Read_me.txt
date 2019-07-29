@@ -1,0 +1,1 @@
+The first columnof each river file represents the upstream boundary condition (flow hydrogrpah), while the second column is the outlet observed flow hydrograph
